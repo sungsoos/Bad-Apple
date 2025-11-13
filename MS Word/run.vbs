@@ -1,6 +1,8 @@
 Sub BadApple()
     Dim filePath As String
-    filePath = "C:\Users\nydwc\Desktop\Bad Apple on\MS Word\bad_apple_frames.txt"
+    ' Put file path below!
+    filePath = "Put Location here!" ' !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    ' ^^^^^^^^^^^^^^^^^^^^^^^^^^^
     
     Dim fileNum As Integer
     Dim fileContent As String
@@ -51,4 +53,5 @@ Sub BadApple()
         Loop
     Next i
 End Sub
+
 
