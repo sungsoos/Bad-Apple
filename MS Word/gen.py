@@ -8,7 +8,7 @@ HEIGHT = 20                            # ASCII height
 FPS = 60                               # Reduce fps to make text file smaller
 
 # More ASCII characters from dark to light
-ASCII_CHARS = [" @", "% ", "# ", "* ", "+ ", "= ", "- ", ": ", ". ", "  "]  
+ASCII_CHARS = ["@ ", "% ", "# ", "* ", "+ ", "= ", "- ", ": ", ". ", "  "]  
 
 # === FUNCTION TO CONVERT GRAYSCALE TO ASCII ===
 def pixel_to_ascii(pixel_value):
